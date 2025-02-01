@@ -71,6 +71,7 @@ table{
     width: 100%;
     text-align: center;
     margin: 10px 0;
+    margin-bottom: 100px;
 }
 table th{
     text-transform: uppercase;
@@ -101,5 +102,7 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
-    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
